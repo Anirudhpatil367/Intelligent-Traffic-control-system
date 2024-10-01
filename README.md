@@ -73,7 +73,7 @@ Install these libraries before uploading the code to your Arduino board.
 
 ## 🔍 **Demonstration**
 
-![Traffic Control GIF](https://github.com/Anirudhpatil367/Intelligent-Traffic-control-system/blob/main/PHOTO-2021-08-06-14-00-09.jpg)
+![Traffic Control GIF](Photo_1.jpg)
 
 ---
 

@@ -73,15 +73,9 @@ Install these libraries before uploading the code to your Arduino board.
 
 ## 🔍 **Demonstration**
 
-Here’s a description you can add for the image in the **Demonstration** section of your `README.md`:
-
----
-
-## 🔍 **Demonstration**
-
 *This image showcases the physical setup of the Intelligent Traffic Control System. The model includes multiple lanes with toy vehicles, representing a typical four-way intersection. Sensors are positioned on each lane to detect incoming vehicles, and servos control the barriers to manage traffic flow. The system is designed to automate the process of stopping and allowing vehicles to pass based on real-time traffic conditions.* 
 
-![Intelligent Traffic Control System](https://raw.githubusercontent.com/yourusername/your-repository/main/Photo_1.jpg)
+![Intelligent Traffic Control System](Photo_1.jpg)
 
 ---
 

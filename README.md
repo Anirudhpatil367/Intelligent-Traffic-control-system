@@ -1,7 +1,3 @@
-Here's the updated version with the code breakdown explained without including the actual code:
-
----
-
 # 🌟 **Intelligent Traffic Control System** 🚦
 
 ![Arduino Badge](https://img.shields.io/badge/Arduino-Project-blue.svg)
@@ -77,7 +73,7 @@ Install these libraries before uploading the code to your Arduino board.
 
 ## 🔍 **Demonstration**
 
-![Traffic Control GIF](https://media.giphy.com/media/l1J9IYacEKuYbNdsA/giphy.gif)
+![Traffic Control GIF](https://github.com/Anirudhpatil367/Intelligent-Traffic-control-system/blob/main/PHOTO-2021-08-06-14-00-09.jpg)
 
 ---
 

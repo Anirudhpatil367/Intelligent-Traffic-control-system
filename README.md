@@ -18,7 +18,7 @@ This project enhances real-time traffic management and reduces the need for manu
 ---
 
 ## 🛠️ **Hardware Components**:
-| **Component**         | **Description**                                              |
+| **Components**         | **Description**                                              |
 |-----------------------|--------------------------------------------------------------|
 | 🖥️ **Arduino Uno**    | Microcontroller board to control the system.                 |
 | 🦾 **Servo Motors (x4)** | To open and close barriers for each lane.                  |
